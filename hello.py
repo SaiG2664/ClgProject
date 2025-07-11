@@ -1,1 +1,1 @@
-print("Hallo World from Daya Tapu ke Papa Gada ")
+print("Hallo World")
